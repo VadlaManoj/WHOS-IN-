@@ -17,6 +17,14 @@ Then discover people and activities that match.
 
 ---
 
+## 🚀 Open the MVP
+
+### 👉 [⚡ OPEN WHO'S IN?](https://vadlamanoj.github.io/WHOS-IN-/)
+
+Click the link above to launch the live website.
+
+---
+
 ## 🚀 MVP Flow
 
 \`\`\`
@@ -70,12 +78,6 @@ Meet
 
 ---
 
-## 🖥️ Preview
-
-![WHO'S IN?](https://images.unsplash.com/photo-1543351611-58f69d7c1781?w=1400&q=80)
-
----
-
 ## 💡 The Idea
 
 People often want to do something but don't have someone available.
@@ -126,9 +128,7 @@ WHO'S IN? uses a modern cinematic social-app style:
 
 ## 🌎 Live Demo
 
-After GitHub Pages deployment:
-
-**https://vadlamanoj.github.io/WHOS-IN-/**
+👉 **https://vadlamanoj.github.io/WHOS-IN-/**
 
 ---
 
